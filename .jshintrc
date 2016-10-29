@@ -27,6 +27,7 @@
     "$": false,
     "Cookies": false,
     "moment": false,
-    "braintree": false
+    "braintree": false,
+    "d3": false
   }
 }

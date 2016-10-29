@@ -4,6 +4,18 @@ html, body {
   margin: 0;
 }
 .wrapper {
-  min-width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
+}
+circle {
+  fill: orange;
+  stroke: black;
+}
+svg {
+  border-bottom: 1px solid black;
+  display: block;
+}
+line {
+  stroke: #fff;
+  stroke-width: 2px;
 }
