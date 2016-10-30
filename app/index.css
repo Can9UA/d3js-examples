@@ -1,0 +1,21 @@
+html, body {
+  min-height: 100%;
+  background: #bbb6b6;
+  margin: 0;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+circle {
+  fill: orange;
+  stroke: black;
+}
+svg {
+  border-bottom: 1px solid black;
+  display: block;
+}
+line {
+  stroke: #fff;
+  stroke-width: 2px;
+}
